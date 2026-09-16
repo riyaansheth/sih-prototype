@@ -1,1 +1,164 @@
-{}
+{
+  "BID-001": {
+    "summary": "System recommendation: QUALIFY (risk: LOW). Shakti Engineering Works Private Limited (PAN AABCS4471F, GSTIN 33AABCS4471F1Z8) meets MSME reservation (UDYAM-TN-33-0018842, Small, Manufacturing), Class-I Local Supplier at 68% per Public Procurement (Preference to Make in India) Order, 2017, turnover FY 2024-25 Rs 6.14 Cr ≥ Rs 2.00 Cr, and statutory requirements (EPFO TNMAS0045821000 and ESIC 51000448210001099 current as of 2026-08), with OEM authorization from Jindal SAW Ltd (JSAW/DEALER/TN/2026/0184) valid to 2027-03-31 and BIS licence CM/L-7712948 (IS 3589:2001) valid to 2027-06-30. No debarment found; tax filings current; bid value Rs 3,98,50,000.",
+    "keyRisks": [
+      {
+        "title": "Standards alignment",
+        "detail": "BIS licence CM/L-7712948 is for IS 3589:2001 (scope: steel pipes for water and sewage 168.3–2540 mm OD) while the item is API 5L Gr.B line pipe; tender cites \"IS 3589 / API 5L\"—obtain API 5L evidence from OEM to preclude mismatch.",
+        "severity": "MEDIUM"
+      },
+      {
+        "title": "Time-bound OEM authorization",
+        "detail": "OEM authorization from Jindal SAW Ltd (ref JSAW/DEALER/TN/2026/0184) expires 2027-03-31; ensure delivery/inspection schedule falls within validity or obtain extension.",
+        "severity": "LOW"
+      }
+    ],
+    "actionsForOfficer": [
+      "Record MSME eligibility on file using UDYAM-TN-33-0018842 (Small, Manufacturing) for MSME-reserved tender compliance under the Public Procurement Policy for MSEs Order, 2012.",
+      "Record Class-I Local Supplier status (68% local content) under the Public Procurement (Preference to Make in India) Order, 2017, citing auditor certificate by M/s Raghavan & Associates (FRN 004821S).",
+      "Verify technical compliance to API 5L Gr.B for 8\" and 12\" NB: obtain OEM API 5L licence/monogram details (PSL level) and sample mill test certificates/QAP from Jindal SAW Ltd covering the offered sizes.",
+      "Confirm acceptance of BIS licence CM/L-7712948 (IS 3589:2001, valid to 2027-06-30) against the tender’s \"IS 3589 / API 5L\" requirement in the technical evaluation note.",
+      "Place on record EPFO TNMAS0045821000 (last ECR 2026-08) and ESIC 51000448210001099 (last contribution 2026-08) as meeting the tender’s statutory compliance condition.",
+      "Capture turnover verification: note FY 2024-25 turnover Rs 6.14 Cr against the Rs 2.00 Cr minimum, per submitted audited financials.",
+      "Attach OEM authorization letter (JSAW/DEALER/TN/2026/0184) and confirm its validity covers the supply period; seek extension if delivery goes beyond 2027-03-31.",
+      "Complete price reasonableness assessment as per internal SOP/GFR against LPP/market for Rs 3,98,50,000 quoted value."
+    ],
+    "curable": "Curable before award: submission of API 5L licence/monogram details from OEM and corresponding MTC/QAP; confirmation note that BIS CM/L-7712948 (IS 3589:2001) is acceptable per tender; extension/revalidation of time-bound authorizations if needed. Disqualifying if later found non-MSME (UDYAM invalid), local content <50% (Class-I threshold under PPP-MII), lack of valid OEM authorization/BIS licence per tender, or any debarment emerges.",
+    "model": "gpt-5"
+  },
+  "BID-002": {
+    "summary": "Bidder Meridian Tubes Private Limited (PAN AAFCM8812K; GSTIN 33AAFCM8812K1Z2; UDYAM-TN-20-0031177) meets MSME reservation and statutory compliances (EPFO TNCBE0311770000; ESIC 51000311770001099) and the turnover threshold (Rs 2.89 Cr vs Rs 2.00 Cr for FY 2024-25), and has valid BIS licence CM/L-8841203 (IS 3589:2001) and OEM authorization SRL/AUTH/SOUTH/2026/0412. However, the bid is non-compliant with the tender’s Make in India requirement—only 47% local content declared against the 50% minimum (requires Class-I local supplier) per Public Procurement (Preference to Make in India) Order, 2017—rendering the bid ineligible. Additionally, one mandatory document (BIS licence) was not uploaded, there is an address mismatch across sources, and a minor GST return delay; these are curable but do not offset the PPP-MII non-compliance.",
+    "keyRisks": [
+      {
+        "title": "PPP-MII non-compliance (local content)",
+        "detail": "Bidder self-certified 47% local content (Class-II) against the tender minimum 50% (Class-I required) under the Public Procurement (Preference to Make in India) Order, 2017.",
+        "severity": "HIGH"
+      },
+      {
+        "title": "Mandatory document not uploaded",
+        "detail": "Document Completeness FAIL: BIS licence not submitted in bid, though BIS Certification check shows CM/L-8841203 (IS 3589:2001) active until 2027-01-31.",
+        "severity": "MEDIUM"
+      },
+      {
+        "title": "Registered address inconsistency",
+        "detail": "Cross-source MATERIAL_MISMATCH on registered address PIN codes (641021 vs 641604), indicating differing physical locations.",
+        "severity": "MEDIUM"
+      },
+      {
+        "title": "GST filing delay",
+        "detail": "GSTR-1 last filed 2026-08 and GSTR-3B last filed 2026-07 with 1 period outstanding.",
+        "severity": "LOW"
+      },
+      {
+        "title": "Document authenticity (Udyam)",
+        "detail": "Only 2 of 3 documents issuer-verified; Udyam certificate (UDYAM-TN-20-0031177) uploaded as PDF, not DigiLocker-issued; issuer signature not validated.",
+        "severity": "LOW"
+      }
+    ],
+    "actionsForOfficer": [
+      "Record in the TEC note that the bid is non-responsive for Make in India: 47% local content vs 50% minimum (Class-I required) per PPP-MII 2017; mark the bid as technically ineligible.",
+      "Document the evidence: attach the system finding on local content failure and cite tender CPCL/2026/PIPE/014 requirement of minimum 50% local content and Class-I local supplier.",
+      "If shortfall document collection is permitted, issue a shortfall request for the BIS licence document corresponding to CM/L-8841203 (IS 3589:2001) to complete the file record.",
+      "Seek clarification on the registered address discrepancy and require the bidder to align GeM, GSTIN 33AAFCM8812K1Z2, and MCA U27310TN2018PTC124409 records (provide PIN and address proof).",
+      "Ask the bidder to clear the pending GST return and submit acknowledgment/filing proof prior to any award action in future procurements.",
+      "Request a DigiLocker-issued Udyam certificate (UDYAM-TN-20-0031177) or place independent portal verification on file to close the authenticity warning."
+    ],
+    "curable": "Curable before award: uploading the BIS licence document for CM/L-8841203, rectifying address inconsistencies, providing DigiLocker-issued Udyam or independent verification, and clearing the single pending GST return. Disqualifying: the local content shortfall (47% vs required 50%)—failure to meet Class-I status under the Public Procurement (Preference to Make in India) Order, 2017, is an eligibility non-compliance and not a rectifiable deficiency post bid submission.",
+    "model": "gpt-5"
+  },
+  "BID-003": {
+    "summary": "System recommends DO_NOT_QUALIFY for Orion Steel Traders in tender CPCL/2026/PIPE/014 due to ineligibility under MSME reservation and multiple material non-compliances. Udyam registration UDYAM-TN-33-0044902 is suspended, and mandatory documents (OEM authorization per clause 4.2, BIS licence to IS 3589/API 5L, and 50% local content certificate under PPP-MII Order 2017) are absent; further tax/statutory arrears heighten risk.",
+    "keyRisks": [
+      {
+        "title": "MSME ineligibility (Udyam suspended)",
+        "detail": "For an MSME-reserved tender, Udyam UDYAM-TN-33-0044902 is suspended for non-updation of ITR/GST turnover for FY 2023-24 and 2024-25; MSE benefit cannot be extended on a suspended registration.",
+        "severity": "HIGH"
+      },
+      {
+        "title": "Missing OEM authorization",
+        "detail": "No OEM authorization letter submitted though mandatory for a trading entity per tender clause 4.2.",
+        "severity": "HIGH"
+      },
+      {
+        "title": "Missing BIS licence to IS 3589/API 5L",
+        "detail": "No BIS licence of the manufacturing OEM submitted against the BIS certification requirement for IS 3589 / API 5L.",
+        "severity": "HIGH"
+      },
+      {
+        "title": "No Local Content Certificate (PPP-MII 2017)",
+        "detail": "No local content certificate submitted to evidence ≥50% local content as mandated under Public Procurement (Preference to Make in India) Order, 2017.",
+        "severity": "HIGH"
+      },
+      {
+        "title": "EPFO arrears",
+        "detail": "Provident fund arrears of Rs 2,84,500 across 3 months; last ECR filed 2026-05, while EPFO compliance is required in this tender.",
+        "severity": "HIGH"
+      },
+      {
+        "title": "ESIC arrears",
+        "detail": "ESI arrears of Rs 61,200 across 3 months; last contribution 2026-05, while ESIC compliance is required in this tender.",
+        "severity": "HIGH"
+      },
+      {
+        "title": "GST return non-filing risk",
+        "detail": "GSTIN 33AFRPO2214L1ZN: GSTR-1 last filed 2026-05 and GSTR-3B last filed 2026-04; 4 consecutive periods not filed, exposing the GSTIN to suspension under Rule 21A of the CGST Rules.",
+        "severity": "MEDIUM"
+      },
+      {
+        "title": "Income tax 206AB flag",
+        "detail": "Flagged as specified person under Section 206AB (ITR not filed for AY 2025-26 with aggregate TDS/TCS > Rs 50,000), implying higher TDS on payments.",
+        "severity": "MEDIUM"
+      },
+      {
+        "title": "Document authenticity warning",
+        "detail": "Only 1/3 documents issuer-verified on DigiLocker; Udyam copy on file shows Active but live portal reports Suspended, indicating the copy predates suspension.",
+        "severity": "LOW"
+      }
+    ],
+    "actionsForOfficer": [
+      "Record non-qualification due to MSME reservation not met: cite Udyam UDYAM-TN-33-0044902 status 'Suspended' and that MSE benefit cannot be extended on suspended registration; annex a dated portal screenshot.",
+      "Reject the bid per system recommendation, also citing absence of OEM authorization (tender clause 4.2), absence of BIS licence to IS 3589/API 5L, and non-submission of the 50% Local Content Certificate under PPP-MII Order 2017.",
+      "Note tax/statutory risks in the file: GSTIN 33AFRPO2214L1ZN non-filing (Rule 21A CGST Rules exposure), Section 206AB flag, EPFO arrears Rs 2,84,500 (3 months, last ECR 2026-05) and ESIC arrears Rs 61,200 (last 2026-05).",
+      "Do not permit post-bid submission of material eligibility documents (Udyam activation, OEM authorization, BIS licence, local content certificate) unless explicitly allowed by tender conditions.",
+      "Issue a speaking order to the bidder detailing each ground with the respective registration numbers, amounts and dates, and upload all supporting evidence to the GeM file.",
+      "Record that financial capacity requirement is met (FY 2024-25 turnover Rs 2.13 Cr ≥ Rs 2.00 Cr) but does not offset eligibility non-compliances; note quoted value Rs 3.59 Cr for completeness."
+    ],
+    "curable": "EPFO/ESIC arrears, GST return pendency, and the Section 206AB flag can be regularized by the bidder, and issuer-verified copies can be provided. However, for this MSME-reserved tender the suspended Udyam status, and the missing OEM authorization, BIS licence (IS 3589/API 5L) and mandatory local content certificate are material eligibility deficiencies and are disqualifying for this bid unless expressly permitted to be rectified by tender terms.",
+    "model": "gpt-5"
+  },
+  "BID-004": {
+    "summary": "Do not qualify. Gating failure on Blacklisting & Debarment: the bidder shares Managing Director Rajesh Kumar Menon (DIN 02847193) and the registered address (14/2, GST Road, Singaperumal Koil, Chengalpattu, Tamil Nadu - 603204) with Kalyan Tubes Pvt Ltd (CIN U27109TN2019PTC131882), which is debarred by Indian Oil Corporation Limited up to 2027-03-31 for non-conforming API 5L supplies against PO 4500218847; this attracts disqualification under GFR 2017 Rule 151 (Debarment from bidding). All other tender conditions (MSME reservation, PPP-MII local content, turnover, EPFO/ESIC, BIS) are met, but the gating debarment overrides (score 85; risk CRITICAL; system recommendation DO_NOT_QUALIFY).",
+    "keyRisks": [
+      {
+        "title": "Debarment link via common director",
+        "detail": "Shared director Rajesh Kumar Menon (DIN 02847193) links the bidder to Kalyan Tubes Pvt Ltd (CIN U27109TN2019PTC131882), debarred by IOCL until 2027-03-31 for API 5L non-conformity (PO 4500218847); Blacklisting & Debarment check = FAIL (gating).",
+        "severity": "HIGH"
+      },
+      {
+        "title": "Common address with debarred entity",
+        "detail": "Bidder and Kalyan Tubes Pvt Ltd share the registered address 14/2, GST Road, Singaperumal Koil, Chengalpattu, Tamil Nadu - 603204, reinforcing allied-firm linkage under debarment scrutiny.",
+        "severity": "MEDIUM"
+      },
+      {
+        "title": "Proximity of incorporation to debarment",
+        "detail": "Vajra Pipes Pvt Ltd was incorporated 139 days after the debarment took effect, heightening risk of continuity of management from the debarred entity.",
+        "severity": "MEDIUM"
+      },
+      {
+        "title": "ITR not on record (informational)",
+        "detail": "Income Tax Return not on record for AY 2024-25; noted as not applicable since incorporation is 2024-08-19.",
+        "severity": "LOW"
+      }
+    ],
+    "actionsForOfficer": [
+      "Reject the bid as non-responsive on the Blacklisting & Debarment gating failure, citing GFR 2017 Rule 151 and the specific IOCL debarment details (entity, CIN U27109TN2019PTC131882; till 2027-03-31; PO 4500218847; non-conforming API 5L supplies).",
+      "Place on file the evidence of linkage (common director DIN 02847193 and common address) and the system finding text; annex any available IOCL debarment order/circular.",
+      "Record a brief legal/vigilance note on applicability of debarment to allied/related firms based on common directorship/address, and its effect on eligibility in this procurement.",
+      "Notify the bidder of disqualification with reasons and invite, if required by procedure, a representation limited to documentary proof of debarment revocation or non-applicability to the bidder.",
+      "Document that other eligibility criteria were met for the record: MSME (UDYAM-TN-02-0091844), PAN AAGCV7719M, GSTIN 33AAGCV7719M1ZR (active since 2024-09-11), turnover FY 2024-25 Rs 2.47 Cr vs requirement Rs 2.00 Cr, local content 62% (Class-I under DPIIT PPP-MII Order 2017), EPFO TNMAS0918440000 and ESIC 51000918440001099 current, BIS licence CM/L-9204418 (IS 3589:2001) valid to 2027-09-30.",
+      "Proceed with evaluation/award to the next eligible bidder as per GeM and CPSE procurement procedures."
+    ],
+    "curable": "The debarment linkage is disqualifying and not curable except by submission of a formal revocation of IOCL’s debarment or an authoritative determination that the debarment does not extend to the bidder as an allied/related firm. The ITR observation for AY 2024-25 is non-applicable due to incorporation on 2024-08-19 and requires no cure.",
+    "model": "gpt-5"
+  }
+}
