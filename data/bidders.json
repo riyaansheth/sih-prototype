@@ -1,0 +1,1113 @@
+[
+  {
+    "id": "BID-001",
+    "gemSellerId": "GEM-S-2019-0044821",
+    "legalName": "Shakti Engineering Works Private Limited",
+    "quotedValue": 39850000,
+    "submittedDocs": [
+      {
+        "type": "UDYAM_CERTIFICATE",
+        "file": "shakti_udyam.pdf",
+        "uploadedAt": "2026-09-11T09:14:00+05:30"
+      },
+      {
+        "type": "GST_REGISTRATION",
+        "file": "shakti_gst_reg.pdf",
+        "uploadedAt": "2026-09-11T09:15:00+05:30"
+      },
+      {
+        "type": "PAN_CARD",
+        "file": "shakti_pan.pdf",
+        "uploadedAt": "2026-09-11T09:15:30+05:30"
+      },
+      {
+        "type": "OEM_AUTHORIZATION",
+        "file": "shakti_oem_jindal.pdf",
+        "uploadedAt": "2026-09-11T09:17:00+05:30"
+      },
+      {
+        "type": "BIS_LICENCE",
+        "file": "shakti_bis.pdf",
+        "uploadedAt": "2026-09-11T09:18:00+05:30"
+      },
+      {
+        "type": "LOCAL_CONTENT_CERTIFICATE",
+        "file": "shakti_lc_ca_cert.pdf",
+        "uploadedAt": "2026-09-11T09:19:00+05:30"
+      },
+      {
+        "type": "AUDITED_FINANCIALS",
+        "file": "shakti_fy2425_bs.pdf",
+        "uploadedAt": "2026-09-11T09:21:00+05:30"
+      }
+    ],
+    "portals": {
+      "UDYAM": {
+        "status": "VERIFIED",
+        "data": {
+          "udyamNumber": "UDYAM-TN-33-0018842",
+          "enterpriseName": "Shakti Engineering Works Private Limited",
+          "enterpriseType": "Small",
+          "pan": "AABCS4471F",
+          "socialCategory": "General",
+          "majorActivity": "Manufacturing",
+          "nic": "24311 - Manufacture of steel tubes and pipes",
+          "registeredAddress": "Plot 44, SIDCO Industrial Estate, Ambattur, Chennai, Tamil Nadu - 600098",
+          "dateOfIncorporation": "2015-04-18",
+          "dateOfUdyamRegistration": "2020-07-22",
+          "validUpto": null,
+          "isActive": true
+        },
+        "evidence": {
+          "ref": "UDYAM/VERIFY/20260916/0018842",
+          "portal": "udyamregistration.gov.in"
+        }
+      },
+      "GSTN": {
+        "status": "VERIFIED",
+        "data": {
+          "gstin": "33AABCS4471F1Z8",
+          "legalName": "SHAKTI ENGINEERING WORKS PRIVATE LIMITED",
+          "tradeName": "Shakti Engineering Works",
+          "pan": "AABCS4471F",
+          "registrationDate": "2017-07-01",
+          "constitution": "Private Limited Company",
+          "taxpayerType": "Regular",
+          "gstinStatus": "Active",
+          "principalPlaceOfBusiness": "Plot 44, SIDCO Industrial Estate, Ambattur, Chennai, Tamil Nadu - 600098",
+          "returns": {
+            "GSTR1": {
+              "lastFiled": "2026-08",
+              "consecutiveDefaults": 0
+            },
+            "GSTR3B": {
+              "lastFiled": "2026-08",
+              "consecutiveDefaults": 0
+            }
+          },
+          "annualTurnoverFY2425": 61400000,
+          "eInvoiceEnabled": true
+        },
+        "evidence": {
+          "ref": "GSTN/SEARCH/20260916/33AABCS4471F1Z8",
+          "portal": "services.gst.gov.in"
+        }
+      },
+      "ITD_PAN": {
+        "status": "VERIFIED",
+        "data": {
+          "pan": "AABCS4471F",
+          "nameOnPan": "SHAKTI ENGINEERING WORKS PRIVATE LIMITED",
+          "panStatus": "Valid and Active",
+          "panAadhaarLinked": "NA - Non-individual",
+          "itrFiled": {
+            "AY2025-26": true,
+            "AY2024-25": true
+          },
+          "form26ASAvailable": true,
+          "specifiedPersonU206AB": false
+        },
+        "evidence": {
+          "ref": "ITD/PANVERIFY/20260916/AABCS4471F",
+          "portal": "incometax.gov.in"
+        }
+      },
+      "MCA21": {
+        "status": "VERIFIED",
+        "data": {
+          "cin": "U27109TN2015PTC101847",
+          "companyName": "SHAKTI ENGINEERING WORKS PRIVATE LIMITED",
+          "companyStatus": "Active",
+          "dateOfIncorporation": "2015-04-18",
+          "registeredOffice": "Plot 44, SIDCO Industrial Estate, Ambattur, Chennai, Tamil Nadu - 600098",
+          "paidUpCapital": 5000000,
+          "lastAGM": "2025-09-26",
+          "lastBalanceSheet": "2025-03-31",
+          "directors": [
+            {
+              "din": "07114820",
+              "name": "Venkatesh Ramanathan",
+              "designation": "Managing Director",
+              "appointedOn": "2015-04-18"
+            },
+            {
+              "din": "07114821",
+              "name": "Lakshmi Ramanathan",
+              "designation": "Director",
+              "appointedOn": "2015-04-18"
+            }
+          ],
+          "charges": [],
+          "strikeOffFlag": false
+        },
+        "evidence": {
+          "ref": "MCA/MASTERDATA/20260916/U27109TN2015PTC101847",
+          "portal": "mca.gov.in"
+        }
+      },
+      "EPFO": {
+        "status": "VERIFIED",
+        "data": {
+          "establishmentCode": "TNMAS0045821000",
+          "establishmentName": "SHAKTI ENGINEERING WORKS PVT LTD",
+          "employeeCount": 84,
+          "lastEcrFiled": "2026-08",
+          "contributionArrears": 0,
+          "exemptedStatus": false
+        },
+        "evidence": {
+          "ref": "EPFO/ESTSEARCH/20260916/TNMAS0045821000",
+          "portal": "unifiedportal-emp.epfindia.gov.in"
+        }
+      },
+      "ESIC": {
+        "status": "VERIFIED",
+        "data": {
+          "employerCode": "51000448210001099",
+          "employerName": "SHAKTI ENGINEERING WORKS PVT LTD",
+          "insuredPersons": 84,
+          "lastContributionMonth": "2026-08",
+          "contributionArrears": 0
+        },
+        "evidence": {
+          "ref": "ESIC/EMPSEARCH/20260916/51000448210001099",
+          "portal": "esic.gov.in"
+        }
+      },
+      "STARTUP_INDIA": {
+        "status": "NOT_FOUND",
+        "data": {
+          "recognised": false,
+          "reason": "Entity not registered under DPIIT Startup recognition"
+        },
+        "evidence": {
+          "ref": "SIH/DPIIT/20260916/AABCS4471F",
+          "portal": "startupindia.gov.in"
+        }
+      },
+      "NSIC": {
+        "status": "VERIFIED",
+        "data": {
+          "registrationNumber": "NSIC/SPRS/TN/2023/04471",
+          "scheme": "Single Point Registration Scheme",
+          "monetaryLimit": 50000000,
+          "validUpto": "2027-03-31",
+          "isActive": true
+        },
+        "evidence": {
+          "ref": "NSIC/SPRS/20260916/04471",
+          "portal": "nsic.co.in"
+        }
+      },
+      "DIGILOCKER": {
+        "status": "VERIFIED",
+        "data": {
+          "documentsPulled": [
+            "UDYAM_CERTIFICATE",
+            "GST_REGISTRATION",
+            "PAN_CARD"
+          ],
+          "issuerVerified": true,
+          "tamperCheck": "PASS",
+          "signatureValid": true
+        },
+        "evidence": {
+          "ref": "DL/PULL/20260916/S4471F",
+          "portal": "digilocker.gov.in"
+        }
+      },
+      "MII_DPIIT": {
+        "status": "VERIFIED",
+        "data": {
+          "localContentPct": 68,
+          "supplierClass": "Class-I Local Supplier",
+          "certifyingAuthority": "Statutory Auditor - M/s Raghavan & Associates, FRN 004821S",
+          "certificateDate": "2026-04-12",
+          "productCategory": "Steel tubes and pipes"
+        },
+        "evidence": {
+          "ref": "MII/LC/20260916/SHAKTI",
+          "portal": "dpiit.gov.in"
+        }
+      },
+      "DEBARMENT": {
+        "status": "CLEAR",
+        "data": {
+          "directHits": [],
+          "sourcesChecked": [
+            "GeM Seller Debarment",
+            "CPPP Banned List",
+            "IOCL Holiday List",
+            "BPCL Suspension List",
+            "HPCL Banned Vendors",
+            "CPCL Vendor Blacklist",
+            "MoPNG Debarment Registry"
+          ],
+          "directorLinkedHits": []
+        },
+        "evidence": {
+          "ref": "DEBAR/SCAN/20260916/BID-001",
+          "portal": "aggregated"
+        }
+      },
+      "OEM_AUTH": {
+        "status": "VERIFIED",
+        "data": {
+          "oemName": "Jindal SAW Limited",
+          "oemGstin": "24AAACJ4323N1ZQ",
+          "authorizationRef": "JSAW/DEALER/TN/2026/0184",
+          "validUpto": "2027-03-31",
+          "productsCovered": "API 5L Gr.B ERW/LSAW line pipe up to 24\" NB",
+          "signatoryVerified": true
+        },
+        "evidence": {
+          "ref": "OEM/VERIFY/20260916/JSAW0184",
+          "portal": "manual + OEM confirmation"
+        }
+      },
+      "BIS": {
+        "status": "VERIFIED",
+        "data": {
+          "licenceNumber": "CM/L-7712948",
+          "standard": "IS 3589:2001",
+          "scope": "Steel pipes for water and sewage 168.3 to 2540 mm OD",
+          "validUpto": "2027-06-30",
+          "licenceStatus": "Active"
+        },
+        "evidence": {
+          "ref": "BIS/LIC/20260916/CML7712948",
+          "portal": "manakonline.in"
+        }
+      }
+    }
+  },
+  {
+    "id": "BID-002",
+    "gemSellerId": "GEM-S-2021-0188340",
+    "legalName": "Meridian Tubes Private Limited",
+    "quotedValue": 37200000,
+    "submittedDocs": [
+      {
+        "type": "UDYAM_CERTIFICATE",
+        "file": "meridian_udyam.pdf",
+        "uploadedAt": "2026-09-12T16:02:00+05:30"
+      },
+      {
+        "type": "GST_REGISTRATION",
+        "file": "meridian_gst.pdf",
+        "uploadedAt": "2026-09-12T16:03:00+05:30"
+      },
+      {
+        "type": "PAN_CARD",
+        "file": "meridian_pan.pdf",
+        "uploadedAt": "2026-09-12T16:03:40+05:30"
+      },
+      {
+        "type": "OEM_AUTHORIZATION",
+        "file": "meridian_oem.pdf",
+        "uploadedAt": "2026-09-12T16:05:00+05:30"
+      },
+      {
+        "type": "LOCAL_CONTENT_CERTIFICATE",
+        "file": "meridian_lc.pdf",
+        "uploadedAt": "2026-09-12T16:06:00+05:30"
+      },
+      {
+        "type": "AUDITED_FINANCIALS",
+        "file": "meridian_fy2425.pdf",
+        "uploadedAt": "2026-09-12T16:08:00+05:30"
+      }
+    ],
+    "portals": {
+      "UDYAM": {
+        "status": "VERIFIED",
+        "data": {
+          "udyamNumber": "UDYAM-TN-20-0031177",
+          "enterpriseName": "Meridian Tubes Private Limited",
+          "enterpriseType": "Small",
+          "pan": "AAFCM8812K",
+          "socialCategory": "General",
+          "majorActivity": "Manufacturing",
+          "nic": "24311 - Manufacture of steel tubes and pipes",
+          "registeredAddress": "SF No. 214/3, Kurichi Industrial Area, Coimbatore, Tamil Nadu - 641021",
+          "dateOfIncorporation": "2018-11-05",
+          "dateOfUdyamRegistration": "2021-02-16",
+          "validUpto": null,
+          "isActive": true
+        },
+        "evidence": {
+          "ref": "UDYAM/VERIFY/20260916/0031177",
+          "portal": "udyamregistration.gov.in"
+        }
+      },
+      "GSTN": {
+        "status": "VERIFIED",
+        "data": {
+          "gstin": "33AAFCM8812K1Z2",
+          "legalName": "MERIDIAN TUBES PVT. LTD.",
+          "tradeName": "Meridian Tubes",
+          "pan": "AAFCM8812K",
+          "registrationDate": "2018-12-14",
+          "constitution": "Private Limited Company",
+          "taxpayerType": "Regular",
+          "gstinStatus": "Active",
+          "principalPlaceOfBusiness": "12/A, Palladam Road, Tirupur, Tamil Nadu - 641604",
+          "additionalPlacesOfBusiness": [],
+          "returns": {
+            "GSTR1": {
+              "lastFiled": "2026-08",
+              "consecutiveDefaults": 0
+            },
+            "GSTR3B": {
+              "lastFiled": "2026-07",
+              "consecutiveDefaults": 1
+            }
+          },
+          "annualTurnoverFY2425": 28900000,
+          "eInvoiceEnabled": true
+        },
+        "evidence": {
+          "ref": "GSTN/SEARCH/20260916/33AAFCM8812K1Z2",
+          "portal": "services.gst.gov.in"
+        }
+      },
+      "ITD_PAN": {
+        "status": "VERIFIED",
+        "data": {
+          "pan": "AAFCM8812K",
+          "nameOnPan": "MERIDIAN TUBES PVT LTD",
+          "panStatus": "Valid and Active",
+          "panAadhaarLinked": "NA - Non-individual",
+          "itrFiled": {
+            "AY2025-26": true,
+            "AY2024-25": true
+          },
+          "form26ASAvailable": true,
+          "specifiedPersonU206AB": false
+        },
+        "evidence": {
+          "ref": "ITD/PANVERIFY/20260916/AAFCM8812K",
+          "portal": "incometax.gov.in"
+        }
+      },
+      "MCA21": {
+        "status": "VERIFIED",
+        "data": {
+          "cin": "U27310TN2018PTC124409",
+          "companyName": "MERIDIAN TUBES PRIVATE LIMITED",
+          "companyStatus": "Active",
+          "dateOfIncorporation": "2018-11-05",
+          "registeredOffice": "SF No. 214/3, Kurichi Industrial Area, Coimbatore, Tamil Nadu - 641021",
+          "paidUpCapital": 2500000,
+          "lastAGM": "2025-09-29",
+          "lastBalanceSheet": "2025-03-31",
+          "directors": [
+            {
+              "din": "08221704",
+              "name": "Arun Prakash Subramanian",
+              "designation": "Director",
+              "appointedOn": "2018-11-05"
+            },
+            {
+              "din": "08221705",
+              "name": "Deepa Subramanian",
+              "designation": "Director",
+              "appointedOn": "2018-11-05"
+            }
+          ],
+          "charges": [
+            {
+              "chargeId": "100487211",
+              "holder": "Canara Bank",
+              "amount": 15000000,
+              "status": "Open"
+            }
+          ],
+          "strikeOffFlag": false
+        },
+        "evidence": {
+          "ref": "MCA/MASTERDATA/20260916/U27310TN2018PTC124409",
+          "portal": "mca.gov.in"
+        }
+      },
+      "EPFO": {
+        "status": "VERIFIED",
+        "data": {
+          "establishmentCode": "TNCBE0311770000",
+          "establishmentName": "MERIDIAN TUBES PRIVATE LIMITED",
+          "employeeCount": 41,
+          "lastEcrFiled": "2026-08",
+          "contributionArrears": 0,
+          "exemptedStatus": false
+        },
+        "evidence": {
+          "ref": "EPFO/ESTSEARCH/20260916/TNCBE0311770000",
+          "portal": "unifiedportal-emp.epfindia.gov.in"
+        }
+      },
+      "ESIC": {
+        "status": "VERIFIED",
+        "data": {
+          "employerCode": "51000311770001099",
+          "employerName": "MERIDIAN TUBES PRIVATE LIMITED",
+          "insuredPersons": 41,
+          "lastContributionMonth": "2026-08",
+          "contributionArrears": 0
+        },
+        "evidence": {
+          "ref": "ESIC/EMPSEARCH/20260916/51000311770001099",
+          "portal": "esic.gov.in"
+        }
+      },
+      "STARTUP_INDIA": {
+        "status": "NOT_FOUND",
+        "data": {
+          "recognised": false,
+          "reason": "Entity not registered under DPIIT Startup recognition"
+        },
+        "evidence": {
+          "ref": "SIH/DPIIT/20260916/AAFCM8812K",
+          "portal": "startupindia.gov.in"
+        }
+      },
+      "NSIC": {
+        "status": "NOT_FOUND",
+        "data": {
+          "registered": false,
+          "reason": "No active SPRS registration found for PAN AAFCM8812K"
+        },
+        "evidence": {
+          "ref": "NSIC/SPRS/20260916/AAFCM8812K",
+          "portal": "nsic.co.in"
+        }
+      },
+      "DIGILOCKER": {
+        "status": "PARTIAL",
+        "data": {
+          "documentsPulled": [
+            "PAN_CARD",
+            "GST_REGISTRATION"
+          ],
+          "documentsUnavailable": [
+            "UDYAM_CERTIFICATE"
+          ],
+          "issuerVerified": true,
+          "tamperCheck": "PASS",
+          "signatureValid": true,
+          "note": "Udyam certificate submitted as uploaded PDF, not DigiLocker-issued. Issuer signature could not be validated."
+        },
+        "evidence": {
+          "ref": "DL/PULL/20260916/M8812K",
+          "portal": "digilocker.gov.in"
+        }
+      },
+      "MII_DPIIT": {
+        "status": "VERIFIED",
+        "data": {
+          "localContentPct": 47,
+          "supplierClass": "Class-II Local Supplier",
+          "certifyingAuthority": "Statutory Auditor - M/s Bhaskar & Co, FRN 009114S",
+          "certificateDate": "2026-05-30",
+          "productCategory": "Steel tubes and pipes"
+        },
+        "evidence": {
+          "ref": "MII/LC/20260916/MERIDIAN",
+          "portal": "dpiit.gov.in"
+        }
+      },
+      "DEBARMENT": {
+        "status": "CLEAR",
+        "data": {
+          "directHits": [],
+          "sourcesChecked": [
+            "GeM Seller Debarment",
+            "CPPP Banned List",
+            "IOCL Holiday List",
+            "BPCL Suspension List",
+            "HPCL Banned Vendors",
+            "CPCL Vendor Blacklist",
+            "MoPNG Debarment Registry"
+          ],
+          "directorLinkedHits": []
+        },
+        "evidence": {
+          "ref": "DEBAR/SCAN/20260916/BID-002",
+          "portal": "aggregated"
+        }
+      },
+      "OEM_AUTH": {
+        "status": "VERIFIED",
+        "data": {
+          "oemName": "Surya Roshni Limited",
+          "oemGstin": "07AAACS0745J1Z6",
+          "authorizationRef": "SRL/AUTH/SOUTH/2026/0412",
+          "validUpto": "2026-12-31",
+          "productsCovered": "ERW steel pipes up to 12\" NB",
+          "signatoryVerified": true
+        },
+        "evidence": {
+          "ref": "OEM/VERIFY/20260916/SRL0412",
+          "portal": "manual + OEM confirmation"
+        }
+      },
+      "BIS": {
+        "status": "VERIFIED",
+        "data": {
+          "licenceNumber": "CM/L-8841203",
+          "standard": "IS 3589:2001",
+          "scope": "Steel pipes 168.3 to 610 mm OD",
+          "validUpto": "2027-01-31",
+          "licenceStatus": "Active"
+        },
+        "evidence": {
+          "ref": "BIS/LIC/20260916/CML8841203",
+          "portal": "manakonline.in"
+        }
+      }
+    }
+  },
+  {
+    "id": "BID-003",
+    "gemSellerId": "GEM-S-2022-0291155",
+    "legalName": "Orion Steel Traders",
+    "quotedValue": 35900000,
+    "submittedDocs": [
+      {
+        "type": "UDYAM_CERTIFICATE",
+        "file": "orion_udyam.pdf",
+        "uploadedAt": "2026-09-13T22:41:00+05:30"
+      },
+      {
+        "type": "GST_REGISTRATION",
+        "file": "orion_gst.pdf",
+        "uploadedAt": "2026-09-13T22:42:00+05:30"
+      },
+      {
+        "type": "PAN_CARD",
+        "file": "orion_pan.pdf",
+        "uploadedAt": "2026-09-13T22:42:30+05:30"
+      },
+      {
+        "type": "AUDITED_FINANCIALS",
+        "file": "orion_fy2425.pdf",
+        "uploadedAt": "2026-09-13T22:45:00+05:30"
+      }
+    ],
+    "portals": {
+      "UDYAM": {
+        "status": "EXPIRED",
+        "data": {
+          "udyamNumber": "UDYAM-TN-33-0044902",
+          "enterpriseName": "Orion Steel Traders",
+          "enterpriseType": "Micro",
+          "pan": "AFRPO2214L",
+          "socialCategory": "General",
+          "majorActivity": "Trading",
+          "nic": "46620 - Wholesale of metals and metal ores",
+          "registeredAddress": "No. 8, Erukkancheri High Road, Chennai, Tamil Nadu - 600118",
+          "dateOfIncorporation": "2016-06-20",
+          "dateOfUdyamRegistration": "2021-03-08",
+          "lastUpdatedOn": "2021-03-08",
+          "isActive": false,
+          "deactivationReason": "Registration suspended - mandatory annual ITR/GST turnover update not completed for FY 2023-24 and FY 2024-25"
+        },
+        "evidence": {
+          "ref": "UDYAM/VERIFY/20260916/0044902",
+          "portal": "udyamregistration.gov.in"
+        }
+      },
+      "GSTN": {
+        "status": "VERIFIED",
+        "data": {
+          "gstin": "33AFRPO2214L1ZN",
+          "legalName": "ORION STEEL TRADERS",
+          "tradeName": "Orion Steel Traders",
+          "pan": "AFRPO2214L",
+          "registrationDate": "2017-08-22",
+          "constitution": "Proprietorship",
+          "taxpayerType": "Regular",
+          "gstinStatus": "Active",
+          "principalPlaceOfBusiness": "No. 8, Erukkancheri High Road, Chennai, Tamil Nadu - 600118",
+          "returns": {
+            "GSTR1": {
+              "lastFiled": "2026-05",
+              "consecutiveDefaults": 3
+            },
+            "GSTR3B": {
+              "lastFiled": "2026-04",
+              "consecutiveDefaults": 4
+            }
+          },
+          "annualTurnoverFY2425": 21300000,
+          "eInvoiceEnabled": false
+        },
+        "evidence": {
+          "ref": "GSTN/SEARCH/20260916/33AFRPO2214L1ZN",
+          "portal": "services.gst.gov.in"
+        }
+      },
+      "ITD_PAN": {
+        "status": "VERIFIED",
+        "data": {
+          "pan": "AFRPO2214L",
+          "nameOnPan": "PRABHAKARAN ORIKKAL",
+          "panStatus": "Valid and Active",
+          "panAadhaarLinked": "Linked",
+          "itrFiled": {
+            "AY2025-26": false,
+            "AY2024-25": true
+          },
+          "form26ASAvailable": true,
+          "specifiedPersonU206AB": true,
+          "note": "Flagged under Section 206AB - ITR not filed for AY 2025-26 and aggregate TDS/TCS exceeds Rs 50,000. Higher TDS rate applicable."
+        },
+        "evidence": {
+          "ref": "ITD/PANVERIFY/20260916/AFRPO2214L",
+          "portal": "incometax.gov.in"
+        }
+      },
+      "MCA21": {
+        "status": "NOT_APPLICABLE",
+        "data": {
+          "reason": "Proprietorship - not a registered company under Companies Act 2013. No CIN exists."
+        },
+        "evidence": {
+          "ref": "MCA/MASTERDATA/20260916/NA",
+          "portal": "mca.gov.in"
+        }
+      },
+      "EPFO": {
+        "status": "NON_COMPLIANT",
+        "data": {
+          "establishmentCode": "TNMAS0449020000",
+          "establishmentName": "ORION STEEL TRADERS",
+          "employeeCount": 26,
+          "lastEcrFiled": "2026-05",
+          "contributionArrears": 284500,
+          "arrearsMonths": 3,
+          "exemptedStatus": false
+        },
+        "evidence": {
+          "ref": "EPFO/ESTSEARCH/20260916/TNMAS0449020000",
+          "portal": "unifiedportal-emp.epfindia.gov.in"
+        }
+      },
+      "ESIC": {
+        "status": "NON_COMPLIANT",
+        "data": {
+          "employerCode": "51000449020001099",
+          "employerName": "ORION STEEL TRADERS",
+          "insuredPersons": 26,
+          "lastContributionMonth": "2026-05",
+          "contributionArrears": 61200,
+          "arrearsMonths": 3
+        },
+        "evidence": {
+          "ref": "ESIC/EMPSEARCH/20260916/51000449020001099",
+          "portal": "esic.gov.in"
+        }
+      },
+      "STARTUP_INDIA": {
+        "status": "NOT_FOUND",
+        "data": {
+          "recognised": false,
+          "reason": "Entity not registered under DPIIT Startup recognition"
+        },
+        "evidence": {
+          "ref": "SIH/DPIIT/20260916/AFRPO2214L",
+          "portal": "startupindia.gov.in"
+        }
+      },
+      "NSIC": {
+        "status": "NOT_FOUND",
+        "data": {
+          "registered": false,
+          "reason": "No active SPRS registration found for PAN AFRPO2214L"
+        },
+        "evidence": {
+          "ref": "NSIC/SPRS/20260916/AFRPO2214L",
+          "portal": "nsic.co.in"
+        }
+      },
+      "DIGILOCKER": {
+        "status": "PARTIAL",
+        "data": {
+          "documentsPulled": [
+            "PAN_CARD"
+          ],
+          "documentsUnavailable": [
+            "UDYAM_CERTIFICATE",
+            "GST_REGISTRATION"
+          ],
+          "issuerVerified": true,
+          "tamperCheck": "PASS",
+          "signatureValid": true,
+          "note": "Only PAN retrievable from DigiLocker. Udyam certificate on file shows registration as Active, but live portal reports Suspended - submitted copy appears to predate suspension."
+        },
+        "evidence": {
+          "ref": "DL/PULL/20260916/O2214L",
+          "portal": "digilocker.gov.in"
+        }
+      },
+      "MII_DPIIT": {
+        "status": "NOT_SUBMITTED",
+        "data": {
+          "localContentPct": null,
+          "supplierClass": null,
+          "reason": "No local content certificate submitted with the bid. Mandatory under PPP-MII Order 2017 for this tender."
+        },
+        "evidence": {
+          "ref": "MII/LC/20260916/ORION",
+          "portal": "dpiit.gov.in"
+        }
+      },
+      "DEBARMENT": {
+        "status": "CLEAR",
+        "data": {
+          "directHits": [],
+          "sourcesChecked": [
+            "GeM Seller Debarment",
+            "CPPP Banned List",
+            "IOCL Holiday List",
+            "BPCL Suspension List",
+            "HPCL Banned Vendors",
+            "CPCL Vendor Blacklist",
+            "MoPNG Debarment Registry"
+          ],
+          "directorLinkedHits": []
+        },
+        "evidence": {
+          "ref": "DEBAR/SCAN/20260916/BID-003",
+          "portal": "aggregated"
+        }
+      },
+      "OEM_AUTH": {
+        "status": "NOT_SUBMITTED",
+        "data": {
+          "reason": "No OEM authorization letter submitted. Bidder is a trading entity (Udyam major activity: Trading), OEM authorization is mandatory per tender clause 4.2."
+        },
+        "evidence": {
+          "ref": "OEM/VERIFY/20260916/NONE",
+          "portal": "manual"
+        }
+      },
+      "BIS": {
+        "status": "NOT_SUBMITTED",
+        "data": {
+          "reason": "No BIS licence submitted. Trading entity - BIS licence of the manufacturing OEM required instead."
+        },
+        "evidence": {
+          "ref": "BIS/LIC/20260916/NONE",
+          "portal": "manakonline.in"
+        }
+      }
+    }
+  },
+  {
+    "id": "BID-004",
+    "gemSellerId": "GEM-S-2024-0417066",
+    "legalName": "Vajra Pipes Private Limited",
+    "quotedValue": 33400000,
+    "submittedDocs": [
+      {
+        "type": "UDYAM_CERTIFICATE",
+        "file": "vajra_udyam.pdf",
+        "uploadedAt": "2026-09-14T11:28:00+05:30"
+      },
+      {
+        "type": "GST_REGISTRATION",
+        "file": "vajra_gst.pdf",
+        "uploadedAt": "2026-09-14T11:29:00+05:30"
+      },
+      {
+        "type": "PAN_CARD",
+        "file": "vajra_pan.pdf",
+        "uploadedAt": "2026-09-14T11:29:20+05:30"
+      },
+      {
+        "type": "OEM_AUTHORIZATION",
+        "file": "vajra_oem.pdf",
+        "uploadedAt": "2026-09-14T11:31:00+05:30"
+      },
+      {
+        "type": "BIS_LICENCE",
+        "file": "vajra_bis.pdf",
+        "uploadedAt": "2026-09-14T11:32:00+05:30"
+      },
+      {
+        "type": "LOCAL_CONTENT_CERTIFICATE",
+        "file": "vajra_lc.pdf",
+        "uploadedAt": "2026-09-14T11:33:00+05:30"
+      },
+      {
+        "type": "AUDITED_FINANCIALS",
+        "file": "vajra_fy2425.pdf",
+        "uploadedAt": "2026-09-14T11:35:00+05:30"
+      }
+    ],
+    "portals": {
+      "UDYAM": {
+        "status": "VERIFIED",
+        "data": {
+          "udyamNumber": "UDYAM-TN-02-0091844",
+          "enterpriseName": "Vajra Pipes Private Limited",
+          "enterpriseType": "Small",
+          "pan": "AAGCV7719M",
+          "socialCategory": "General",
+          "majorActivity": "Manufacturing",
+          "nic": "24311 - Manufacture of steel tubes and pipes",
+          "registeredAddress": "14/2, GST Road, Singaperumal Koil, Chengalpattu, Tamil Nadu - 603204",
+          "dateOfIncorporation": "2024-08-19",
+          "dateOfUdyamRegistration": "2024-09-30",
+          "validUpto": null,
+          "isActive": true
+        },
+        "evidence": {
+          "ref": "UDYAM/VERIFY/20260916/0091844",
+          "portal": "udyamregistration.gov.in"
+        }
+      },
+      "GSTN": {
+        "status": "VERIFIED",
+        "data": {
+          "gstin": "33AAGCV7719M1ZR",
+          "legalName": "VAJRA PIPES PRIVATE LIMITED",
+          "tradeName": "Vajra Pipes",
+          "pan": "AAGCV7719M",
+          "registrationDate": "2024-09-11",
+          "constitution": "Private Limited Company",
+          "taxpayerType": "Regular",
+          "gstinStatus": "Active",
+          "principalPlaceOfBusiness": "14/2, GST Road, Singaperumal Koil, Chengalpattu, Tamil Nadu - 603204",
+          "returns": {
+            "GSTR1": {
+              "lastFiled": "2026-08",
+              "consecutiveDefaults": 0
+            },
+            "GSTR3B": {
+              "lastFiled": "2026-08",
+              "consecutiveDefaults": 0
+            }
+          },
+          "annualTurnoverFY2425": 24700000,
+          "eInvoiceEnabled": true
+        },
+        "evidence": {
+          "ref": "GSTN/SEARCH/20260916/33AAGCV7719M1ZR",
+          "portal": "services.gst.gov.in"
+        }
+      },
+      "ITD_PAN": {
+        "status": "VERIFIED",
+        "data": {
+          "pan": "AAGCV7719M",
+          "nameOnPan": "VAJRA PIPES PRIVATE LIMITED",
+          "panStatus": "Valid and Active",
+          "panAadhaarLinked": "NA - Non-individual",
+          "itrFiled": {
+            "AY2025-26": true,
+            "AY2024-25": false
+          },
+          "form26ASAvailable": true,
+          "specifiedPersonU206AB": false,
+          "note": "AY2024-25 not applicable - company incorporated 19 Aug 2024."
+        },
+        "evidence": {
+          "ref": "ITD/PANVERIFY/20260916/AAGCV7719M",
+          "portal": "incometax.gov.in"
+        }
+      },
+      "MCA21": {
+        "status": "VERIFIED",
+        "data": {
+          "cin": "U24311TN2024PTC168923",
+          "companyName": "VAJRA PIPES PRIVATE LIMITED",
+          "companyStatus": "Active",
+          "dateOfIncorporation": "2024-08-19",
+          "registeredOffice": "14/2, GST Road, Singaperumal Koil, Chengalpattu, Tamil Nadu - 603204",
+          "paidUpCapital": 1000000,
+          "lastAGM": "2025-09-18",
+          "lastBalanceSheet": "2025-03-31",
+          "directors": [
+            {
+              "din": "02847193",
+              "name": "Rajesh Kumar Menon",
+              "designation": "Managing Director",
+              "appointedOn": "2024-08-19"
+            },
+            {
+              "din": "02847194",
+              "name": "Sunita Menon",
+              "designation": "Director",
+              "appointedOn": "2024-08-19"
+            }
+          ],
+          "charges": [],
+          "strikeOffFlag": false
+        },
+        "evidence": {
+          "ref": "MCA/MASTERDATA/20260916/U24311TN2024PTC168923",
+          "portal": "mca.gov.in"
+        }
+      },
+      "EPFO": {
+        "status": "VERIFIED",
+        "data": {
+          "establishmentCode": "TNMAS0918440000",
+          "establishmentName": "VAJRA PIPES PRIVATE LIMITED",
+          "employeeCount": 33,
+          "lastEcrFiled": "2026-08",
+          "contributionArrears": 0,
+          "exemptedStatus": false
+        },
+        "evidence": {
+          "ref": "EPFO/ESTSEARCH/20260916/TNMAS0918440000",
+          "portal": "unifiedportal-emp.epfindia.gov.in"
+        }
+      },
+      "ESIC": {
+        "status": "VERIFIED",
+        "data": {
+          "employerCode": "51000918440001099",
+          "employerName": "VAJRA PIPES PRIVATE LIMITED",
+          "insuredPersons": 33,
+          "lastContributionMonth": "2026-08",
+          "contributionArrears": 0
+        },
+        "evidence": {
+          "ref": "ESIC/EMPSEARCH/20260916/51000918440001099",
+          "portal": "esic.gov.in"
+        }
+      },
+      "STARTUP_INDIA": {
+        "status": "VERIFIED",
+        "data": {
+          "recognised": true,
+          "dpiitRecognitionNumber": "DIPP184427",
+          "recognisedOn": "2024-11-14",
+          "validUpto": "2034-08-19",
+          "sector": "Manufacturing - Metal Products"
+        },
+        "evidence": {
+          "ref": "SIH/DPIIT/20260916/DIPP184427",
+          "portal": "startupindia.gov.in"
+        }
+      },
+      "NSIC": {
+        "status": "NOT_FOUND",
+        "data": {
+          "registered": false,
+          "reason": "No active SPRS registration found for PAN AAGCV7719M"
+        },
+        "evidence": {
+          "ref": "NSIC/SPRS/20260916/AAGCV7719M",
+          "portal": "nsic.co.in"
+        }
+      },
+      "DIGILOCKER": {
+        "status": "VERIFIED",
+        "data": {
+          "documentsPulled": [
+            "UDYAM_CERTIFICATE",
+            "GST_REGISTRATION",
+            "PAN_CARD"
+          ],
+          "issuerVerified": true,
+          "tamperCheck": "PASS",
+          "signatureValid": true
+        },
+        "evidence": {
+          "ref": "DL/PULL/20260916/V7719M",
+          "portal": "digilocker.gov.in"
+        }
+      },
+      "MII_DPIIT": {
+        "status": "VERIFIED",
+        "data": {
+          "localContentPct": 62,
+          "supplierClass": "Class-I Local Supplier",
+          "certifyingAuthority": "Statutory Auditor - M/s Nandakumar & Co, FRN 011204S",
+          "certificateDate": "2026-06-08",
+          "productCategory": "Steel tubes and pipes"
+        },
+        "evidence": {
+          "ref": "MII/LC/20260916/VAJRA",
+          "portal": "dpiit.gov.in"
+        }
+      },
+      "DEBARMENT": {
+        "status": "LINKED_HIT",
+        "data": {
+          "directHits": [],
+          "sourcesChecked": [
+            "GeM Seller Debarment",
+            "CPPP Banned List",
+            "IOCL Holiday List",
+            "BPCL Suspension List",
+            "HPCL Banned Vendors",
+            "CPCL Vendor Blacklist",
+            "MoPNG Debarment Registry"
+          ],
+          "directorLinkedHits": [
+            {
+              "debarredEntity": "Kalyan Tubes Private Limited",
+              "debarredEntityCin": "U27109TN2019PTC131882",
+              "debarringAuthority": "Indian Oil Corporation Limited",
+              "listName": "IOCL Holiday List",
+              "debarredOn": "2024-04-02",
+              "debarredUpto": "2027-03-31",
+              "grounds": "Supply of material not conforming to API 5L specification against PO 4500218847; third-party test failure on hydrostatic and impact testing",
+              "sharedDirectors": [
+                {
+                  "din": "02847193",
+                  "name": "Rajesh Kumar Menon",
+                  "roleInDebarredEntity": "Managing Director",
+                  "roleInBidder": "Managing Director"
+                }
+              ],
+              "otherSignals": {
+                "sharedRegisteredAddress": true,
+                "addressOnRecord": "14/2, GST Road, Singaperumal Koil, Chengalpattu, Tamil Nadu - 603204",
+                "bidderIncorporatedDaysAfterDebarment": 139
+              }
+            }
+          ]
+        },
+        "evidence": {
+          "ref": "DEBAR/SCAN/20260916/BID-004",
+          "portal": "aggregated + MCA director graph"
+        }
+      },
+      "OEM_AUTH": {
+        "status": "VERIFIED",
+        "data": {
+          "oemName": "Vajra Pipes Private Limited",
+          "oemGstin": "33AAGCV7719M1ZR",
+          "authorizationRef": "SELF-MANUFACTURER",
+          "validUpto": null,
+          "productsCovered": "API 5L Gr.B ERW line pipe 4\" to 12\" NB",
+          "signatoryVerified": true,
+          "note": "Bidder declares itself as manufacturer; OEM authorization not applicable."
+        },
+        "evidence": {
+          "ref": "OEM/VERIFY/20260916/SELF",
+          "portal": "self-declaration"
+        }
+      },
+      "BIS": {
+        "status": "VERIFIED",
+        "data": {
+          "licenceNumber": "CM/L-9204418",
+          "standard": "IS 3589:2001",
+          "scope": "Steel pipes 168.3 to 406.4 mm OD",
+          "validUpto": "2027-09-30",
+          "licenceStatus": "Active"
+        },
+        "evidence": {
+          "ref": "BIS/LIC/20260916/CML9204418",
+          "portal": "manakonline.in"
+        }
+      }
+    }
+  }
+]

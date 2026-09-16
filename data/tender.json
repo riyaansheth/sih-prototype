@@ -1,0 +1,24 @@
+{
+  "id": "CPCL/2026/PIPE/014",
+  "title": "Supply of API 5L Gr.B Line Pipe (8\" & 12\" NB) - Manali Refinery Expansion",
+  "buyer": "Chennai Petroleum Corporation Limited",
+  "ministry": "Ministry of Petroleum & Natural Gas",
+  "gemBidNo": "GEM/2026/B/6421887",
+  "estimatedValue": 42000000,
+  "currency": "INR",
+  "bidOpenDate": "2026-08-28",
+  "bidCloseDate": "2026-09-14",
+  "requirements": {
+    "msmeReserved": true,
+    "minLocalContentPct": 50,
+    "minAnnualTurnover": 20000000,
+    "turnoverFinancialYear": "2024-25",
+    "epfoRequired": true,
+    "esicRequired": true,
+    "oemAuthorizationRequired": true,
+    "bisCertificationRequired": true,
+    "bisStandard": "IS 3589 / API 5L",
+    "startupExemptionAllowed": true
+  },
+  "notes": "Reserved for MSEs under Public Procurement Policy for MSEs Order 2012. Class-I local supplier preference per PPP-MII Order 2017 (rev. 2020)."
+}
